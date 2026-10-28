@@ -4,7 +4,7 @@ B.Tech. in Robotics and Artificial Intelligence, III Semester
 School of ECE, REVA University | AY 2026-27
 
 **Name:** Venkat Krishna
-**SRN:** R25EV053
+**SRN:** R25EV058
 **Section:** 3F
 
 ## What is in this repository
